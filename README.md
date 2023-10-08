@@ -4,7 +4,6 @@
 
 This programming standard was made to ensure optimal code readability, efficiency, consistency and maintainability. It also aims to avoid "naming collisions*", and ensure proper namespacing practices as well.
 
-
 ## Sections
 - [File Layout](./file_layout.md)
 - [Capitalization](./capitalization.md)
