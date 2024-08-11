@@ -41,3 +41,4 @@ case secondCase:
 ```
 - Function implementations that have no reason to reside in a header file must be in the relevant implementation file.
 - Comments must all be capitalized as are proper sentences.
+- Primitive literal suffixes must always be used when applicable- always in uppercase (e.g. using `5ull` instead of `5` when assigning to an `unsigned long long` type).
