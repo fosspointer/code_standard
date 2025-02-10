@@ -1,8 +1,8 @@
-# FossPointer Code Standard for C++
+# Fosspointer Coding Standard for C++
 
 **Version 1.0**
 
-This programming standard was made to ensure optimal code readability, efficiency, consistency and maintainability. It also aims to avoid "naming collisions*", and ensure proper namespacing practices as well.
+This programming standard was made to ensure optimal code readability, efficiency, consistency and maintainability. It also aims to avoid naming collisions*, and ensure proper namespacing practices as well.
 
 ## Sections
 - [File Layout](./file_layout.md)
